@@ -1,4 +1,4 @@
-# Hi there, I'm Youssef Ben Ihoud 👋
+# Hi there, I'm Youssef Benihoud 👋
 
 <!--
 ![Profile Views](https://komarev.com/ghpvc/?username=youssefbenihoud&color=blue)
